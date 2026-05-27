@@ -1,0 +1,39 @@
+MUJTABA NAWAZ
+INTRODUCTION
+Fresh Graduate Software Engineer with academic and project-based experience in web and
+application development. Familiar with building CRUD systems, basic UI/UX design, and database
+integration.
+WORK EXPERIENCE
+EDUCATION
+Bachelor in Software Engenering
+Comsats University Islamabad Wah Campus
+Sep 2022 - Till Now
+Developed academic and personal projects using Python, Java, Flutter, and Laravel.
+Built CRUD applications with MySQL and Firebase.
+Created simple GUIs and implemented basic models.
+Worked with APIs, debugging, and version control (Git/GitHub).
+Software Engineer (Fresh Graduate) 	Jan 2023 - Present
+ADDITIONAL INFORMATION
+Programming: Python, Java, Dart, PHP, React, Html, TailwindCss
+Frameworks: Flutter, Laravel
+Databases: MySQL, Firebase
+Tools: Git, GitHub, VS Code, Postman, XAMPP
+UI/UX & Design Tools: Figma, Canva
+ICS
+Scholar Science College Wah Cantt
+Aug 2020 - Aug 2022
+Wah Cantt Rawalpindi Pakistan
+mujtabanawaz79@gmail.com
+PROJECTS
+1. RMSMS University Portal
+Web-based system developed using PHP, MySQL, React for managing student and teacher
+records.
+2. Expense Tracker Mobile Application
+Mobile app developed to track daily expenses using Flutter, with user-friendly UI.
+3. House Price Prediction System
+Machine learning project using Python and scikit-learn to predict house prices based on
+historical data.
+0300-9186187
+
+-- 1 of 1 --
+

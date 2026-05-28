@@ -26,6 +26,13 @@ const projects = [
     link: "https://github.com/mujtabatech79/weather-app",
   },
   {
+    title: "Gmail Export",
+    category: "Gmail Conversation Exporter",
+    tools: "Laravel, Google Gmail API, OAuth 2.0 (Google Client), TailwindCSS, Vanilla JS, Two-way Conversation Export, JSON Download, Privacy-focused direct streaming",
+    image: "/images/gmailexport.png",
+    link: "https://github.com/mujtabatech79/gmail-conversation-exporter",
+  },
+  {
     title: "Upcoming Project",
     category: "Full-Stack Development",
     tools: "Under Development — Stay Tuned!",

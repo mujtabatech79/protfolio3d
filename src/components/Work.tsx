@@ -19,6 +19,13 @@ const projects = [
     link: "https://github.com/Ali-Hassan-codes/RMS-MS",
   },
   {
+    title: "Weather App",
+    category: "Weather Forecasting Application",
+    tools: "HTML, CSS, JavaScript, Weather API, Real-time weather forecasting based on location search, showing temperature, wind speed, and humidity details",
+    image: "/images/weather.png",
+    link: "#",
+  },
+  {
     title: "Upcoming Project",
     category: "Full-Stack Development",
     tools: "Under Development — Stay Tuned!",

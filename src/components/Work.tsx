@@ -23,7 +23,7 @@ const projects = [
     category: "Weather Forecasting Application",
     tools: "HTML, CSS, JavaScript, Weather API, Real-time weather forecasting based on location search, showing temperature, wind speed, and humidity details",
     image: "/images/weather.png",
-    link: "#",
+    link: "https://github.com/mujtabatech79/weather-app",
   },
   {
     title: "Upcoming Project",
